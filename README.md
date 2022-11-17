@@ -25,7 +25,7 @@ Since the website is being developed, there will contain bugs that I may not kno
 ## To Be Added
 There are many things I still have to add to the website before it is "completed". Not all of the links will work correctly. Majority of the links are going to be policy links. That is because it will take me a period of time to understand and read my own policies word by word before publishing it to the website.
 
-##Credit to Authors
+## Credit to Authors
 Some of the objects and items used in the website have been reversed or manipulated for my use. All of the the items used in this website are my own creation or open source. If you're an author and recongize your creation, let me know and I will credit you here and on my website.
 
 
